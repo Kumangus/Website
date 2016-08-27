@@ -13,7 +13,8 @@ http://germany.owic.io
 #How to get started?
 
 1. Checkout code
-2. Run npm install
+2. Go to your command line and execute the following npm commands:
+2. npm install
 3. npm start
 
 That's it start coding!
