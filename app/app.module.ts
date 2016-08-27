@@ -8,7 +8,6 @@ import { InMemoryBackendService, SEED_DATA }  from 'angular2-in-memory-web-api';
 import { InMemoryDataService }                from './api/in-memory-data.service';
 
 import { DashboardComponent }       from './dashboard/dashboard.component';
-import { Team4TalentComponent }     from './team4talent/team4talent.component';
 import { PersonComponent }          from './person/person.component';
 import { AppComponent }             from './app.component';
 import { Routing }                  from './app.routing';
@@ -29,7 +28,6 @@ import { PersonService }            from './person/person.service';
   declarations: [
     AppComponent,
     DashboardComponent,
-    Team4TalentComponent,
     PersonComponent
   ],
   bootstrap: [AppComponent]
