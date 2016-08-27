@@ -2,13 +2,7 @@
 
 Open Windows Insiders Community Website (shortname: OWIC) a place where we can share our story's, events and profiles from Windows Insiders Communities around the globe.
 
-Domain is allready in place, aldo project is not yet hosted untill first version!
-
-http://www.owic.io
-
-Existing subdomains atm:
-http://belgium.owic.io
-http://germany.owic.io
+Domain is ordered and in place but we are waiting for release untill we have a first stable version.
 
 #How to get started?
 
