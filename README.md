@@ -1,6 +1,6 @@
 #Open Windows Insiders Community
 
-Open Windows Insiders Community Website a place where we can share our story's, events and profiles from Windows Insiders Communities around the globe.
+Open Windows Insiders Community Website (shortname: OWIC) a place where we can share our story's, events and profiles from Windows Insiders Communities around the globe.
 
 Domain is allready in place, aldo project is not yet hosted untill first version!
 
