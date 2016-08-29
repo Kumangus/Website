@@ -1,5 +1,5 @@
 {
-  "name": "angular2-quickstart",
+  "name": "owic-website",
   "version": "1.0.0",
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
@@ -24,6 +24,7 @@
     "angular2-in-memory-web-api": "0.0.15",
     "bootstrap": "^3.3.6",
     "core-js": "^2.4.0",
+    "font-awesome": "^4.6.3",
     "moment": "^2.14.1",
     "ng2-bootstrap": "^1.0.24",
     "reflect-metadata": "^0.1.3",
